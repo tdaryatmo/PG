@@ -1,4 +1,5 @@
 <?
+
 /*
 Assumptions:
 - numbers are inputted manually in script
